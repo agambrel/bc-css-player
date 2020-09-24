@@ -17,19 +17,4 @@
     border-radius: 3em;
     transition: all 0.4s;
 }
-.video-js button {
-    background: none;
-        background-color: rgba(0, 0, 0, 0);
-    border: none;
-    color: inherit;
-    display: inline-block;
-    font-size: inherit;
-    line-height: inherit;
-    text-transform: none;
-    text-decoration: none;
-    transition: none;
-    -webkit-appearance: none;
-    -moz-appearance: none;
-    appearance: none;
-}
 
