@@ -12,9 +12,9 @@
     cursor: pointer;
     opacity: 1;
     border: 0em solid #fff;
-    1background-color: #2B333F;
-    1background-color: rgba(43, 51, 63, 0.7);
-    border-radius: 0em;
+    background-color: #2B333F;
+    background-color: rgba(43, 51, 63, 0.7);
+    border-radius: 3em;
     transition: all 0.4s;
 }
 .video-js button {
