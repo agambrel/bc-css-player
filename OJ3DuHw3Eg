@@ -2,7 +2,7 @@
 .bc-player-OJ3DuHw3Eg_default .vjs-big-play-button {
     top: 50%;
     left: 50%;
-    margin-left: -1em;
+    margin-left: -10em;
     margin-top: -1em;
     width: 2em;
     height: 1.5em;
@@ -10,8 +10,8 @@
     border: none;
     border-radius: 21%;
     font-size: 3em;
-    background-color: rgba(0, 0, 0, 0.45);
-    color: #fff;
+    1background-color: rgba(0, 0, 0, 0.45);
+    1color: #fff;
     -webkit-transition: border-color 0.4s, outline 0.4s, background-color 0.4s;
     -moz-transition: border-color 0.4s, outline 0.4s, background-color 0.4s;
     -ms-transition: border-color 0.4s, outline 0.4s, background-color 0.4s;
