@@ -5,7 +5,7 @@
     height: 1.63332em;
     width: 3em;
     display: block;
-    position: absolute;
+    position: center;
     top: 50px;
     left: 10px;
     padding: 0;
