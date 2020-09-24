@@ -1,0 +1,81 @@
+element {
+}
+.bc-player-OJ3DuHw3Eg_default .vjs-control-bar, .bc-player-OJ3DuHw3Eg_default .vjs-big-play-button {
+    color: rgb(255, 255, 255);
+}
+.bc-player-OJ3DuHw3Eg_default .vjs-control-bar, .bc-player-OJ3DuHw3Eg_default .vjs-big-play-button {
+    background-color: rgba(53, 53, 53, 0.85);
+}
+.bc-player-OJ3DuHw3Eg_default .vjs-big-play-button {
+    top: 50%;
+    left: 50%;
+    margin-left: -1em;
+    margin-top: -1em;
+    width: 2em;
+    height: 1.5em;
+    line-height: em;
+    border: none;
+    border-radius: 21%;
+    font-size: 3em;
+    background-color: rgba(0, 0, 0, 0.45);
+    color: #fff;
+    -webkit-transition: border-color 0.4s, outline 0.4s, background-color 0.4s;
+    -moz-transition: border-color 0.4s, outline 0.4s, background-color 0.4s;
+    -ms-transition: border-color 0.4s, outline 0.4s, background-color 0.4s;
+    -o-transition: border-color 0.4s, outline 0.4s, background-color 0.4s;
+    transition: border-color 0.4s, outline 0.4s, background-color 0.4s;
+}
+.video-js .vjs-big-play-button {
+    font-size: 3em;
+    line-height: 1.5em;
+    height: 1.63332em;
+    width: 3em;
+    display: block;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    padding: 0;
+    cursor: pointer;
+    opacity: 1;
+    border: 0.06666em solid #fff;
+    background-color: #2B333F;
+    background-color: rgba(43, 51, 63, 0.7);
+    border-radius: 0.3em;
+    transition: all 0.4s;
+}
+.video-js button {
+    background: none;
+        background-color: rgba(0, 0, 0, 0);
+    border: none;
+    color: inherit;
+    display: inline-block;
+    font-size: inherit;
+    line-height: inherit;
+    text-transform: none;
+    text-decoration: none;
+    transition: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+.bc-player-OJ3DuHw3Eg_default *, .bc-player-OJ3DuHw3Eg_default ::before, .bc-player-OJ3DuHw3Eg_default ::after {
+    box-sizing: inherit;
+    font-size: inherit;
+    color: inherit;
+    line-height: inherit;
+}
+.video-js *, .video-js ::before, .video-js ::after {
+    box-sizing: inherit;
+}
+.bc-player-OJ3DuHw3Eg_default {
+    font-size: 14px;
+}
+.video-js {
+    color: #fff;
+    font-size: 10px;
+    line-height: 1;
+    font-weight: normal;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    word-break: initial;
+}
