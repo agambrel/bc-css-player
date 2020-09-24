@@ -1,11 +1,4 @@
-element {
-}
-.bc-player-OJ3DuHw3Eg_default .vjs-control-bar, .bc-player-OJ3DuHw3Eg_default .vjs-big-play-button {
-    color: rgb(255, 255, 255);
-}
-.bc-player-OJ3DuHw3Eg_default .vjs-control-bar, .bc-player-OJ3DuHw3Eg_default .vjs-big-play-button {
-    background-color: rgba(53, 53, 53, 0.85);
-}
+
 .bc-player-OJ3DuHw3Eg_default .vjs-big-play-button {
     top: 50%;
     left: 50%;
